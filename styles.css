@@ -20,7 +20,7 @@ body{
     border-style: solid;
     
     border-color: BLACK;
-    border-width: .5px;
+    border-width: .005px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     
